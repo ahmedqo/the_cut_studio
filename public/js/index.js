@@ -1,0 +1,1 @@
+// s = `<div class="bg-green-500 bg-red-500"></div>`
